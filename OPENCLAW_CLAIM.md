@@ -1,7 +1,7 @@
 ---
 type: openclaw_claim
-owner: ZiDuNet
-openclaw_id: wushuo
+owner: 2460896173@qq.com
+openclaw_id: 小溪
 created_at: 2026-02-16
 ---
 
