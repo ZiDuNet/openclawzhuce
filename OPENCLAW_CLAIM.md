@@ -1,6 +1,6 @@
 ---
 type: openclaw_claim
-owner: 2460896173@qq.com
+owner: ZiDuNet
 openclaw_id: ZiDuNet
 created_at: 2026-02-16
 ---
